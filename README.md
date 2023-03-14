@@ -17,14 +17,14 @@
 <b>📫 &nbsp;Connect with Me</b>
 
 <p align="center">
-<a href="https://linkedin.com/in/KUNCHAM UPENDRA"><img src="https://img.shields.io/badge/-SaiVarshith-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kunchamupendra@gmail.com"><img src="https://img.shields.io/badge/-saivarshith922@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/KUNCHAM UPENDRA"><img src="https://img.shields.io/badge/-kunchamupendra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kunchamupendra@gmail.com"><img src="https://img.shields.io/badge/-kunchamupendra@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-<a href="https://github.com/sai-varshith">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunchamupendra&show_icons=true&theme=algolia&locale=en&layout=compact" alt="sai-varshith"/>
+<a href="https://github.com/kunchamupendra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunchamupendra&show_icons=true&theme=algolia&locale=en&layout=compact" alt="kunchamupendra"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunchamupendra&show_icons=true&locale=en&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunchamupendra&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="sai-varshith" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunchamupendra&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="kunchamupendra" />
 </p>
