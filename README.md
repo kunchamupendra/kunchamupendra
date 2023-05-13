@@ -1,4 +1,4 @@
-[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://sai-varshith.io)
+[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)]()
 <h1 align="center">Hi 👋, I'm Kuncham Upendra</h1>
 
 
